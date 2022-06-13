@@ -1,3 +1,5 @@
+let dadosApi = axios.get("https://rickandmortyapi.com/api/character/118");
+console.log(dadosApi);
 function buscarDados() {
   // complete a função
 }
